@@ -33,6 +33,6 @@
 
 ### 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](@gmail.com)  [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=about.me&logoColor=white)]()  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](@gmail.com)  [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=about.me&logoColor=white)]()  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yu_seong0406)
 
 Thanks for visiting! 🙏
