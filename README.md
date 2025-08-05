@@ -37,4 +37,8 @@
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choi138&layout=compact">
+
+---
+
 🙏 Thanks for visiting!
