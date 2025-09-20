@@ -1,5 +1,5 @@
 # 👋 안녕하세요 정보보안과 풀스택 개발을 공부중인 한유성입니다.  
-#👋 Hello, I'm YuSung Han, DevSec Developer.
+👋 Hello, I'm YuSung Han, DevSec Developer.
 
 ---
 
