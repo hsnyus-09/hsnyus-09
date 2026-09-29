@@ -79,12 +79,15 @@
 
 | CTF | Result |
 | --------- | ----------- |
+| CCE 2026 | 3rd |
+| SCA CTF 2026 | 1st |
+| 7th JBU CTF | 1st |
 | DEF CON 34 Quals | 14th (TeamH4C) |
-| boroCTF 2026 (HS Division) | 11th (HSDO X PAISL) |
+| boroCTF 2026 (HS Division) | 11th |
 | Codegate CTF Quals Junior | Finalist |
-| MidnightFlag CTF 2026 | 24th (“nullbyte” looking for a GF) |
+| MidnightFlag CTF 2026 | 24th |
 | Cyberguardians CMX 2026 | Finalist |
-| Coss CTF 2026 | Fianlist (Final 4th) |
+| Coss CTF 2026 | 4th |
 
 Other than that, on portfolio
 
