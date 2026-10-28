@@ -20,7 +20,7 @@
 * interested in vulnerability analysis, reverse engineering, and binary exploitation.
 * currently focusing on Linux kernel security, eBPF, Android internals, and CTF challenges.
 * CTF and Security Research with TeamH4C
-* also known a | hsnyus / hhhhhh / hhhhhh / hanyu
+* also known a | hsnyus / hhhhhh / hanyu
 
 <br/>
 
